@@ -1,2 +1,0 @@
-class Restourant < ApplicationRecord
-end
